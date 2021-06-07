@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/primal-quotes/static/css/main.47d938f5.chunk.css",
+    "main.js": "/primal-quotes/static/js/main.09df5662.chunk.js",
+    "main.js.map": "/primal-quotes/static/js/main.09df5662.chunk.js.map",
+    "runtime-main.js": "/primal-quotes/static/js/runtime-main.1cf54849.js",
+    "runtime-main.js.map": "/primal-quotes/static/js/runtime-main.1cf54849.js.map",
+    "static/js/2.3a28d710.chunk.js": "/primal-quotes/static/js/2.3a28d710.chunk.js",
+    "static/js/2.3a28d710.chunk.js.map": "/primal-quotes/static/js/2.3a28d710.chunk.js.map",
+    "index.html": "/primal-quotes/index.html",
+    "static/css/main.47d938f5.chunk.css.map": "/primal-quotes/static/css/main.47d938f5.chunk.css.map",
+    "static/js/2.3a28d710.chunk.js.LICENSE.txt": "/primal-quotes/static/js/2.3a28d710.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cf54849.js",
+    "static/js/2.3a28d710.chunk.js",
+    "static/css/main.47d938f5.chunk.css",
+    "static/js/main.09df5662.chunk.js"
+  ]
+}
